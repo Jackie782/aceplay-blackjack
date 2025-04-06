@@ -1,3 +1,3 @@
 # AcePlay Blackjack
 
-Multiplayer Blackjack Game powered by Supabase, Socket.io, and React.
+Full multiplayer blackjack game source with Supabase, Socket.io, and admin control.

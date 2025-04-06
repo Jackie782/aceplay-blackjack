@@ -1,3 +1,3 @@
 # AcePlay Blackjack
 
-Full multiplayer blackjack game source with Supabase, Socket.io, and admin control.
+🃏 Full game source including Supabase auth, Socket.io multiplayer, Admin chip control, and Leaderboard.

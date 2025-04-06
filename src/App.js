@@ -2,9 +2,12 @@ import React from 'react';
 
 function App() {
   return (
-    <div>
-      <h1>Welcome to AcePlay Blackjack</h1>
-      <p>Multiplayer • Leaderboard • Admin • Live Tables</p>
+    <div style={{ padding: 30, fontFamily: 'Arial' }}>
+      <h1>♠ AcePlay Blackjack ♣</h1>
+      <p>✅ Supabase Login</p>
+      <p>✅ Admin Chip Control</p>
+      <p>✅ Multiplayer Tables (Socket.io)</p>
+      <p>✅ Leaderboard & Shop</p>
     </div>
   );
 }
